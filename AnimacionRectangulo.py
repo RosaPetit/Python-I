@@ -1,6 +1,8 @@
 #_*_coding: utf-8_*_
 
+"This is a basic program that creates a window with the Tkinter libraries"
 "Este es un programa basico que crea una ventana con las librerias Tkinter"
+
 
 #llamo al modulo Tkinter
 import Tkinter as Tki
